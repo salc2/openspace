@@ -10,3 +10,5 @@
 ![alt tag](https://raw.githubusercontent.com/salc2/openspace/master/scalaakka.png)
 ![alt tag](https://raw.githubusercontent.com/salc2/openspace/master/spring-mvc.png)
 ![alt tag](https://raw.githubusercontent.com/salc2/openspace/master/yeoman-logo.png)
+![alt tag](https://raw.githubusercontent.com/salc2/openspace/master/pyxisos.png)
+![alt tag](https://raw.githubusercontent.com/salc2/openspace/master/pyxismarker.png)
